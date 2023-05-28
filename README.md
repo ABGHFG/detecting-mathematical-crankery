@@ -13,7 +13,7 @@ Although there are some research-level articles on viXra.org and some mathematic
 More accurately, we are building a classifier to categorize if an article is styled more in the vein of viXra articles or in the vein of arXiv articles. 
 We make the assumption that this categorization can be interpreted as a representation of the quality.
 
-Below is the predictions of the models we built on the articles from math.GM. In each case, we see there is a bimodal distribution which agrees with the ground truth.
+Below are the predictions of the models on the articles from math.GM. In each case, we see there is a bimodal distribution, which agrees with the ground truth.
 
 ![](predictions_on_arxiv_gm.png)
 
