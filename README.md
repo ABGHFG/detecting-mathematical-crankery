@@ -1,5 +1,6 @@
 [arXiv.org](https://arxiv.org/) is an open-access e-print archive for research-level math articles operated by Cornell University, and today almost all research-level results find their way to the site. 
 To submit an article to arXiv.org, the author must have a university affiliation or be endorsed.
+
 On the other hand, [viXra.org](https://vixra.org/) is an e-print archive which allows anyone to submit articles.
 Unfortunately, viXra.org has become synonymous with mathematical crankery: the attempts of unreasonable crackpots trying to prove impossible results.
 
